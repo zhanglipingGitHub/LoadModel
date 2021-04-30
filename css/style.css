@@ -1,0 +1,25 @@
+#contents{
+    margin: 0px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 600px;
+}
+
+#canvasContainer{
+    margin: 0px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 70%;
+    height: 600px;
+}
+
+#settings {
+    margin: 0px;
+    position: absolute;
+    top: 0px;
+    left: 1100px;
+    width: 30%; 
+}
